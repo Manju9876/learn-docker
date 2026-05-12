@@ -3,3 +3,4 @@ RUN         useradd appuser
 USER        appuser
 ENTRYPOINT  ["env"]
 
+
